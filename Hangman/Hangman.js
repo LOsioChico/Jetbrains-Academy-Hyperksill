@@ -15,7 +15,7 @@ let lost = 0;
 console.log(`H A N G M A N`)
 
 let menu = input(`Type "play" to play the game, "results" to show the scoreboard, and "exit" to quit:`)
-console.log('')
+console.log(' ')
 
 while (menu === 'results') {
     console.log(`You won: ${won} times.
@@ -35,14 +35,16 @@ Input a letter:`)
             while (userInput.length !== 1 || !alphabet.includes(userInput)) {
 
                 if (userInput.length !== 1) {
-                    userInput = input(`${hypens.join('')}
+                    userInput = input(`
+${hypens.join('')}
 Please, input a single letter.
 
 Input a letter:`)
                 }
 
                 if (!alphabet.includes(userInput) && userInput.length === 1) {
-                    userInput = input(`${hypens.join('')}
+                    userInput = input(`
+${hypens.join('')}
 Please, enter a lowercase letter from the English alphabet.
 
 Input a letter:`)
