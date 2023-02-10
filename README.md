@@ -1,6 +1,8 @@
 # My JetBrains Academy Projects
 This repository is a collection of all my projects I submitted at [JetBrains Academy (Hyperkskill)](https://hyperskill.org/)
 
+<a href="https://hyperskill.org/"><img src="https://priyadogra.com/wp-content/uploads/2021/01/preview.png" alt="Jetbrains Academy Hyperskill" width="50%" height="20%"></a>
+
 ### Easy
 
 | Tags | Project | Code |
