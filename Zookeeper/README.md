@@ -2,7 +2,7 @@
 
 This is a solution to the [Zookeeper](https://hyperskill.org/projects/225). JetBrains Academy (Hyperskill) help you improve your coding skills by building projects and offering a lot of valuable information about programming.
 
-Note: The project only works for JetBrains Academy (Hyperskill) checks, to make it work in any text editor you have to do some modifications.
+Note: The project only works for JetBrains Academy (Hyperskill) checks, to make it work in any text editor you have to [do some modifications](https://github.com/hyperskill/sync-input).
 
 ## Table of contents
 
