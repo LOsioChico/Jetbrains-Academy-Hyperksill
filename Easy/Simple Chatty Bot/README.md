@@ -15,7 +15,7 @@ Note: The project only works for JetBrains Academy (Hyperskill) checks, to make 
 
 ### Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/LOsioChico/Jetbrains-Academy-Hyperksill/main/Simple%20Chatty%20Bot/Screenshot_1.png)
+![Screenshot](https://raw.githubusercontent.com/LOsioChico/Jetbrains-Academy-Hyperksill/main/Easy/Simple%20Chatty%20Bot/Screenshot_1.png)
 
 ### Built with
 
