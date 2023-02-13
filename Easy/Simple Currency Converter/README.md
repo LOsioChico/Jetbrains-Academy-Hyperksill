@@ -15,7 +15,7 @@ Note: The project only works for JetBrains Academy (Hyperskill) checks, to make 
 
 ### Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/LOsioChico/hyperskill-jetbrains/main/Simple%20Currency%20Converter/Screenshot_1.png)
+![Screenshot](https://raw.githubusercontent.com/LOsioChico/hyperskill-jetbrains/main/Easy/Simple%20Currency%20Converter/Screenshot_1.png)
 
 ### Built with
 
