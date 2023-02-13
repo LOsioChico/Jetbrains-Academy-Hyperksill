@@ -15,7 +15,7 @@ Note: The project only works for JetBrains Academy (Hyperskill) checks, to make 
 
 ### Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/LOsioChico/hyperskill-jetbrains/main/Carnival%20Gift%20Shop/Screenshot_1.png)
+![Screenshot](https://raw.githubusercontent.com/LOsioChico/hyperskill-jetbrains/main/Easy/Carnival%20Gift%20Shop/Screenshot_1.png)
 
 ### Built with
 
